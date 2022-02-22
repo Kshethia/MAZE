@@ -1,0 +1,13 @@
+This file stores the High Score information for the game
+
+Absolutism 0 Easy
+Absolutism 0 Medium
+Absolutism 0 Hard
+
+Eternalism 0 Easy
+Eternalism 0 Medium
+Eternalism 0 Hard
+
+Idealism 0 Easy
+Idealism 0 Medium
+Idealism 0 Hard
